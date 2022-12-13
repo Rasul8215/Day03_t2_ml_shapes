@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.square{
+    padding: 20px;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color:red    ;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50%;
+
+}
+.react{
+    width: 100px;
+    height: 50px;
+    background-color:black    ;
+    margin: 20px;
+    padding: 20px;
+    
+}
+.eclip{
+    width: 100px;
+    height: 100px;
+    background-color:blue   ;
+    margin: 20px;
+    padding: 20px;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    
+}
+.para{
+    width: 100px;
+    height: 50px;
+    background-color:pink    ;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50%;
+}
+.tri{
+    width: 0;
+    border-left: 50px solid transparent;
+    border-right:50px solid  transparent;
+    border-bottom: 100px solid green;
+    margin: 20px;
+
+}
+.srec{
+    width: 100px;
+    height: 50px;
+    background:yellow;
+    margin: 20px;
+    padding: 20px;
+    transform:skew(20deg)
+    
+}
